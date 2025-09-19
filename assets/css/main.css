@@ -2518,6 +2518,14 @@ input, select, textarea {
                 margin: 0;
                 padding: 0;
         }
+		       .skills-subgrid > [class*="col-"] {
+                display: flex;
+                justify-content: center;
+        }
+
+        .skills-subgrid .skills-list {
+                width: 100%;
+        }
 
         .skill-circle {
                 align-items: center;
