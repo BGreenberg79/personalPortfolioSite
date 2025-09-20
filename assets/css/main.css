@@ -3535,10 +3535,10 @@ input, select, textarea {
 
 		.banner-img {
   width: auto;
-  max-height: 120px;
+  max-height: 500px;
   border-radius: 12px;
-  display:block;
-  margin-left: auto;
+  display:inline-block;
+margin-left: auto;
 }
 
 		@media screen and (max-width: 1280px) {
